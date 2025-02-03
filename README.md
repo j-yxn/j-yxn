@@ -1,4 +1,4 @@
-Welcome to my GitHub profile! ⚙️ I am currently a high school senior with a strong interest in the engineering field, particularly in <strong>mechanical systems and robotics</strong>. This upcoming fall, I will be attending the University of Virginia under the College of Arts & Sciences. ✴️
+Welcome to my GitHub profile! ⚙️ I am currently a high school senior with a strong interest in the engineering field, particularly in <strong>mechanical systems and robotics</strong>. 
 ##
 I am always eager to learn and grow, seeking out opportunities to expand my skill set and embrace new challenges. My current experience includes proficiency in <strong>Java, Python, and HTML/CSS</strong> 💻, and I am committed to refining my expertise in these languages while also exploring other areas within the field of STEAM. I am taking/taken a variety of rigorous courses that correlate well with STEAM, including Multivariable Calculus, AP Physics C: Mechanics, and AP Computer Science A. Additonally, I am heavily involved in FIRST Tech Challenge (FTC) Robotics as the Build Lead for <strong>Team 1885</strong> -- check out our past and current season results! 🔩
 
