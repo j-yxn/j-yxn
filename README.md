@@ -9,8 +9,6 @@ I am always eager to learn and grow, seeking out opportunities to expand my skil
 <i><strong>Feel free to explore my repositories and connect with me!</strong></i>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23515bd4?style=plastic&logo=instagram&logoSize=auto&labelColor=%23DD2A7B)](https://instagram.com/y_jjxn)
-[![X](https://img.shields.io/badge/X-%23000000?style=plastic&logo=x&logoSize=auto&labelColor=grey)](https://X.com/j__yxn)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500?style=plastic&logo=reddit&logoSize=auto&labelColor=white)](https://www.reddit.com/user/j-yxn/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230a66c2?style=plastic)](https://www.linkedin.com/in/danielyoon977)
 
 
