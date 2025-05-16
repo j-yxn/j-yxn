@@ -1,4 +1,4 @@
-<i>dreaming of getting into ICME...</i>
+<i>dreaming of getting into Stanford ICME...</i>
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23515bd4?style=plastic&logo=instagram&logoSize=auto&labelColor=%23DD2A7B)](https://instagram.com/y_jjxn)
